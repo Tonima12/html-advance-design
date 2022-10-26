@@ -1,0 +1,28 @@
+.position div {
+    border: 1px dotted black;
+    width: 700px;
+}
+
+#teddy {
+    position: relative;
+    top: 250px;
+    z-index: 20;
+}
+
+#pot {
+    position: relative;
+    z-index: 1;
+
+}
+
+#water {
+    position: relative;
+    top: -450px;
+    /* left: 30px; */
+}
+
+.dummy {
+    height: 150px;
+    width: 250px;
+    background-color: blue;
+}

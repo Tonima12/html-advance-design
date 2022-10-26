@@ -1,0 +1,59 @@
+/* table section  */
+
+td,
+th {
+    border: 1px solid darkmagenta;
+    padding: 0 15px;
+
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+/* form section  */
+button:hover {
+    color: darkblue;
+    background-color: burlywood;
+
+}
+
+button {
+    color: black;
+
+
+}
+
+/* home-html page style  */
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    padding: 0px 10px;
+    margin-right: 20px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+nav li:hover {
+    background-color: oldlace;
+
+}
+
+/* this is audio-video file section  */
+#audio {
+    font-size: 20px;
+    color: black;
+}
+
+h1 {
+    color: blueviolet;
+}
